@@ -1,0 +1,4 @@
+NORMATIVA DE CONFIDENCIALIDAD Y PROTECCIÓN DE DATOS
+Queda estrictamente prohibido compartir información interna de la empresa, bases de datos de clientes o estrategias comerciales con personas externas a la organización.
+Todos los documentos etiquetados como "Uso Interno" no deben ser subidos a nubes públicas no autorizadas.
+El incumplimiento de esta norma de privacidad será considerado una falta grave.
