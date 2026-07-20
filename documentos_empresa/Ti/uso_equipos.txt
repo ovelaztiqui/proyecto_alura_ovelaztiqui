@@ -1,4 +1,0 @@
-MANUAL DE USO DE EQUIPOS INFORMÁTICOS Y REDES
-Las computadoras portátiles proporcionadas por la organización son de uso estrictamente laboral.
-Está terminantemente prohibido instalar software de terceros no autorizado previamente por el departamento de TI (Tecnología de la Información).
-Para conectarse a los sistemas internos desde redes públicas o desde casa, es obligatorio mantener encendida la VPN corporativa en todo momento.
