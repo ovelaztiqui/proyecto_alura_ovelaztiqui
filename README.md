@@ -37,5 +37,5 @@ La aplicación sigue un flujo de procesamiento de lenguaje natural (NLP) estruct
 ### Ejecución Local (Tu PC)
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/proyecto_alura_ovelaztiqui.git](https://github.com/tu-usuario/proyecto_alura_ovelaztiqui.git)
+   git clone [https://github.com/ovelaztiqui/proyecto_alura_ovelaztiqui.git](https://github.com/ovelaztiqui/proyecto_alura_ovelaztiqui.git)
    cd proyecto_alura_ovelaztiqui
